@@ -1,0 +1,165 @@
+#Yolo
+/yolov5
+/yolov5
+runs/
+weights/
+data/
+results/
+labels/
+*.pt
+yolo/
+yolov5/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Environments
+.env
+.venv
+ENV/
+env.bak/
+venv.bak/
+
+# pyenv
+.python-version
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# dotenv
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Flask
+instance/
+.webassets-cache
+
+# Scrapy
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Thumbnails
+.thumbnail/
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Pyre type checker
+.pyre/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# YOLO specific
+runs/
+weights/
+data/
+results/
+labels/
+*.pt
+
+# Logs and databases
+*.log
+*.db
+*.sqlite
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VS Code specific
+.vscode/
+*.code-workspace
+
+# System specific
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
+~*
+
+# Images and data files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.ico
+*.svg
+*.csv
+*.json
+*.xml
+*.xls
+*.xlsx
+*.parquet
+*.hdf5
+*.h5
+*.tfrecord
+
+# Temporary files and folders
+temp/
+tmp/

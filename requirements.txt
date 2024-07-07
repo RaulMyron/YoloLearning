@@ -1,0 +1,7 @@
+torch
+torchvision
+torchaudio
+matplotlib
+opencv-python
+jupyterlab
+huggingface_hub
